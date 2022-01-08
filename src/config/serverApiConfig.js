@@ -1,0 +1,1 @@
+export const API__ENDPOINT = 'https://api.thecatapi.com/v1/'
